@@ -1,4 +1,2 @@
-# SolarSystem
-
-
-Source code for solar system
+# Animate code 
+-solar-system
